@@ -1,5 +1,4 @@
 #include<iostream>
-#include<new>
 #include"newton_raphson.h"
 
 using namespace std;
